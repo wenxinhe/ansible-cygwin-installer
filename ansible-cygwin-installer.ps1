@@ -17,7 +17,7 @@ $storageDir = $pwd
 $cygwinHome = "c:\cygwin"
 $cygwinUrlRoot = "http://cygwin.com"
 $getPipUrlRoot = "https://bootstrap.pypa.io"
-$cygwinMirror = "http://cygwin.mirrors.pair.com"
+$cygwinMirror = "http://mirrors.neusoft.edu.cn/cygwin/"
 
 #
 # You shouldn't normally need to change anything below here
